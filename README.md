@@ -3,7 +3,7 @@
 A simple java game where the player bounces a ball off a paddle to destroy blocks!
 ---
 ### A Gif depiction
-![Air Hockey GIF](https://github.com/Jacob-Lillywhite/BlockDestroyer/blob/master/Screenshots/BlockDestroyer.gif)
+![Block Destroyer GIF](https://github.com/Jacob-Lillywhite/BlockDestroyer/blob/master/screenshots/BlockDestroyer.gif)
 ---
 
 ---
